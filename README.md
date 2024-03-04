@@ -73,7 +73,7 @@ If you start at the base T, what is the probability that the state will be **any
 If you start at the base T, what is the probability that the state will be any other state than T after 400 mutational events. Use the matrix math for this, which may require the ```expm``` package. 
 
 ## Question C.4
-After 10,000 mutational events, what base(s) are you most likely to end up at for starting at
+After 10,000 mutational events, what base(s) are you most likely to end up for each of the starting bases:
 - A
 - T
 - C
