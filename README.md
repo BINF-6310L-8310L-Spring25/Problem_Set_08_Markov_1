@@ -23,7 +23,7 @@ If you start at the base T, what is the probability that the state will return t
 
 ## Question A.3
 
-After how many mutational events is the probability of being at any base equal if you start at state T. I.e. How many mutational events occur such that p(A)=p(T)=p(C)=p(G)=approximately 0.25
+After how many mutational events is the probability of being at any base equal if you start at state T. I.e. How many mutational events occur such that p(A)=p(T)=p(C)=p(G)=approximately 0.25. You should identify the number of steps at which R reports 0.25 as the value.
 
 ## Question A.4
 
