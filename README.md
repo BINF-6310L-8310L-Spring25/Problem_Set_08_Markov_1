@@ -29,8 +29,8 @@ After how many mutational events is the probability of being at any base equal i
 
 If you start at either purine with an equal probability, what is the probability that you will be at a purine after 4 mutational events? 
 
-$nbsp;
-$nbsp;
+</br>
+</br>
 
 ## Problem B
 
@@ -54,8 +54,8 @@ Plot the probability of the state being T for 20 mutational changes.
 ## Question B.4
 If you start at either purine with an equal probability, what is the probability that you will be at a purine after 4 mutational events?
 
-$nbsp;
-$nbsp;
+</br>
+</br>
 
 ## Problem C
 
@@ -78,6 +78,6 @@ After 10,000 mutational events, what base(s) are you most likely to end up at fo
 - T
 - C
 - G
-
+</br>
 ## BONUS QUESTION
 BONUS: What evolutionary phenomenon did we demonstrate in the last step (Problem 3, question 4) 
