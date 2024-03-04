@@ -61,7 +61,7 @@ If you start at either purine with an equal probability, what is the probability
 
 Most mutational events are fixed by DNA repair enzymes and are not passed on to the next generation. Therefore, what we modeled above were "observable" mutational events. A more realistic estimate is that the base stays the same in 99.9% (or 999 out of 1000) mutational events. 
 
-Create a new transition matrix from the previous matrix that adjusts the probabilities so that there is a 0.999 probability of staying at the same base **and** the remaining probabilities are proportional to problem 2. _Hint_ start by dividing your previous matrix by 1000
+Create a new transition matrix from the previous matrix (Question B) that adjusts the probabilities so that there is a 0.999 probability of staying at the same base **and** the remaining probabilities are proportional to problem 2. _Hint_ start by dividing your previous matrix by 1000
 
 ## Question C.1
 Report your transition matrix
