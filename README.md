@@ -7,8 +7,8 @@ Single nucleotide polymorphisms (SNPs) occur when one base in DNA is changed to 
 
 We are going to use a Markov Chain to examine the probability of a observing a particular basepair after N mutational events. 
 
-$nbsp;
-$nbsp;
+</br>
+</br>
 
 ## Problem A
 
