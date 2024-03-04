@@ -78,6 +78,8 @@ After 10,000 mutational events, what base(s) are you most likely to end up for e
 - T
 - C
 - G
+
+  Report the order from Most Likely to Least Likely
 </br>
 ## BONUS QUESTION
 BONUS: What evolutionary phenomenon did we demonstrate in the last step (Problem 3, question 4) 
