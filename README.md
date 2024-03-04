@@ -67,7 +67,7 @@ Create a new transition matrix from the previous matrix (Question B) that adjust
 Report your transition matrix
 
 ## Question C.2
-If you start at the base T, what is the probability that the state will be any other state than T after 4 mutational events. Use the matrix math for this, which may require the ```expm``` package. 
+If you start at the base T, what is the probability that the state will be **any other state than T **after 4 mutational events. Use the matrix math for this, which may require the ```expm``` package. 
 
 ## Question C.3
 If you start at the base T, what is the probability that the state will be any other state than T after 400 mutational events. Use the matrix math for this, which may require the ```expm``` package. 
