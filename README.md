@@ -7,7 +7,8 @@ Single nucleotide polymorphisms (SNPs) occur when one base in DNA is changed to 
 
 We are going to use a Markov Chain to examine the probability of a observing a particular basepair after N mutational events. 
 
-$nsbp;
+$nbsp;
+$nbsp;
 
 ## Problem A
 
@@ -28,6 +29,8 @@ After how many mutational events is the probability of being at any base equal i
 
 If you start at either purine with an equal probability, what is the probability that you will be at a purine after 4 mutational events? 
 
+$nbsp;
+$nbsp;
 
 ## Problem B
 
@@ -52,18 +55,29 @@ Plot the probability of the state being T for 20 mutational changes.
 If you start at either purine with an equal probability, what is the probability that you will be at a purine after 4 mutational events?
 
 $nbsp;
+$nbsp;
 
 ## Problem C
 
 Most mutational events are fixed by DNA repair enzymes and are not passed on to the next generation. Therefore, what we modeled above were "observable" mutational events. A more realistic estimate is that the base stays the same in 99.9% (or 999 out of 1000) mutational events. 
 
-1. Create a new transition matrix from the previous matrix that adjusts the probabilities so that there is a 0.999 probability of staying at the same base **and** the remaining probabilities are proportional to problem 2. _Hint_ start by dividing your previous matrix by 1000
-2. If you start at the base T, what is the probability that the state will be any other state than T after 4 mutational events. Use the matrix math for this, which may require the ```expm``` package. 
-3. If you start at the base T, what is the probability that the state will be any other state than T after 400 mutational events. Use the matrix math for this, which may require the ```expm``` package. 
-4. After 10,000 mutational events, what base(s) are you most likley to end up at for starting at
+Create a new transition matrix from the previous matrix that adjusts the probabilities so that there is a 0.999 probability of staying at the same base **and** the remaining probabilities are proportional to problem 2. _Hint_ start by dividing your previous matrix by 1000
+
+## Question C.1
+Report your transition matrix
+
+## Question C.2
+If you start at the base T, what is the probability that the state will be any other state than T after 4 mutational events. Use the matrix math for this, which may require the ```expm``` package. 
+
+## Question C.3
+If you start at the base T, what is the probability that the state will be any other state than T after 400 mutational events. Use the matrix math for this, which may require the ```expm``` package. 
+
+## Question C.4
+After 10,000 mutational events, what base(s) are you most likely to end up at for starting at
 - A
 - T
 - C
 - G
 
+## BONUS QUESTION
 BONUS: What evolutionary phenomenon did we demonstrate in the last step (Problem 3, question 4) 
